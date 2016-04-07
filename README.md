@@ -1,5 +1,8 @@
 # deepstream-passport
 
+## Notice!
+This project is no longer supported. My other module [`use-express-middleware`](https://github.com/demux/use-express-middleware) covers this use case.
+
 ## Install:
 
 ```bash
